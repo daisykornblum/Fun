@@ -17,6 +17,13 @@ body {
 	cursor: default;
 }
 
+.ui-widget-content .ui-state-default {
+    background-image: none;
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+    font-weight: normal;
+  }
 
 .ui-slider .ui-slider-range {
 	position: absolute;
